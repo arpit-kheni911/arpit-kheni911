@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/arpit-kheni-7258252b9/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:[arpit.kheni@gmail.com](mailto:arpit.kheni@gmail.com)">
+  <a href="mailto:[arkh9102@gmail.com](mailto:arkh9102@gmail.com)">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/arpit-kheni911">
