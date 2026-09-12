@@ -148,19 +148,6 @@ I enjoy working across the entire product lifecycle — from **UI development an
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,mui,vite,nodejs,express,mongodb,mysql,postgres,firebase,aws,nginx,docker,git,github,gitlab,postman,npm" />
 </p>
 
-### 🧠 Core Technologies
-
-<p align="center">
-
-
-
-
-
-
-\
-
-</p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Stats
@@ -182,17 +169,11 @@ I enjoy working across the entire product lifecycle — from **UI development an
 * 💼 Open to **Full-Stack / Frontend / SaaS / AI-focused opportunities**
 * 🚀 Interested in **startups, SaaS, CRM, ERP & product development**
 * 🧑‍💻 Available for **freelance, contract & long-term projects**
-* 📬 Email: **[arpit.kheni@gmail.com](mailto:arpit.kheni@gmail.com)**
+* 📬 Email: **[arkh9102@gmail.com](mailto:arkh9102@gmail.com)**
 * 🐙 GitHub: **github.com/arpit-kheni911**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ⭐ If you like my work, consider starring a repository — it really helps!
-
-## 🐍 Contribution Graph
-
-<img src="https://github.com/user-attachments/assets/800c7807-298d-415f-8081-e7d5d982555c" />
-
----
 
 </div>
