@@ -144,7 +144,7 @@ I enjoy working across the entire product lifecycle — from **UI development an
 
 ## 💻 Tech Stack
 
-<p align="center">
+<p align="">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,mui,vite,nodejs,express,mongodb,mysql,postgres,firebase,aws,nginx,docker,git,github,gitlab,postman,npm" />
 </p>
 
